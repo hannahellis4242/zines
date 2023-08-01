@@ -7,10 +7,11 @@
 
 ## Commands Covered
 
-- clone
-- branch
-- checkout
-- add
-- commit
-- push
-- pull
+- [ ] clone
+- [ ] status
+- [ ] branch
+- [ ] checkout
+- [ ] add
+- [ ] commit
+- [ ] push
+- [ ] pull
