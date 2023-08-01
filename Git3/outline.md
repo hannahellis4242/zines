@@ -2,11 +2,25 @@
 
 ## Topics Covered
 
-- submodules
-  - commands to initilise and update a submodule
-  - making changes to a submodule
+- commands revisited
 
 ## Commands Covered
 
-- [ ] submodule init
-- [ ] submodule update
+- [ ] diff
+  - [ ] between index and workspace
+  - [ ] between revisions
+- [ ] checkout
+  - [ ] indivual files/directories
+  - [ ] patching with the -p flag
+- [ ] branch
+  - [ ] creating branches
+  - [ ] deleting branches
+    - [ ] merged branches
+    - [ ] unmerged branches
+- [ ] push
+  - [ ] force push
+  - [ ] delete a branch on origin
+- [ ] merge [stratagies](https://www.atlassian.com/git/tutorials/using-branches/merge-strategy)
+  - [ ] ours
+- [ ] rebase
+  - [ ] interactive
